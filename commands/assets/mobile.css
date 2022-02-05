@@ -1,0 +1,57 @@
+@media only screen
+and (min-width : 321px)
+and (max-width : 767px)
+{
+    .end{
+        margin-top: 10% !important;
+    }
+
+    .end-img{
+        margin-top: -14% !important;
+        margin-bottom: 6% !important;
+    }
+
+    .end-copy{
+        margin-top: 36% !important;
+    }
+
+    .extras{
+        margin-top: 6% !important;
+        margin-right: 14% !important;
+    }
+
+    .partners{
+        margin-top: 6% !important;
+        margin-right: -82% !important;
+    }
+
+    .contact-us{
+        margin-top: 6% !important;
+        margin-right: 36% !important;
+    }
+
+    .social{
+        display: none !important;
+    }
+
+    .end-wave{
+        margin-bottom: 6% !important;
+    }
+
+    .end-info{
+        font-size: 12px !important;
+        margin-left: 30% !important;
+        margin-right: 1% !important;
+        margin-top: -30% !important;
+    }
+
+    input[type=text], textarea[name=message]{
+        width: 60%;
+        padding: 8px 8px;
+        margin: auto;
+        box-sizing: border-box;
+        border: 2px solid #fff !important;
+        border-radius: 10px;
+        resize: none;
+    }
+}

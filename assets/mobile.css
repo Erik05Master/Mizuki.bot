@@ -1,0 +1,128 @@
+@media only screen
+and (min-width : 321px)
+and (max-width : 767px)
+{
+    .e{
+        display: none !important;
+    }
+
+    .exmimg{
+        display: none !important;
+    }
+
+    .foltimgmain{
+        display: none !important
+    }
+
+    .give-img1{
+        display: none !important
+    }
+
+    .sound-gif{
+        display: none !important
+    }
+
+   .wave{
+        height: 160px !important;
+    }
+
+    .wave2{
+        height: 160px !important;
+    }
+
+    .wavemain{
+        margin-top: 10%;
+    }
+
+    .invite > .title{
+        font-size: 25px!important;
+        line-height: 25px !important;
+        margin: auto !important;
+    }
+
+    .invite > .desc{
+        margin: auto !important;
+        font-size: 15.9px!important;
+        font-weight: bold !important;
+        margin-right: 12% !important;
+        margin-left: 6% !important;
+        padding: 0 !important;
+        line-height: 30px;
+    }
+
+    .invite > .h3, h3{
+        font-weight: bold !important;
+    }
+
+    .h3, h3 {
+        font-size: calc(1.125rem) !important;
+    }
+
+    .btn-group-lg .btn, .btn-lg {
+        padding: 6px 12px !important;
+        font-size: 18px !important;
+    }
+
+    .btns{
+        margin-left: 10% !important;
+    }
+
+    .info{
+        margin-top: 1px !important;
+        margin-left: 4% !important;
+    }
+
+    .sound{
+        margin-top: 10% !important;
+        margin-right: 16% !important;
+        margin-left: 16%;
+    }
+
+    .giveaway{
+        margin-top: 8% !important;
+        margin-left: 4% !important;
+    }
+
+    .extras{
+        margin-top: 6% !important;
+        margin-right: 14% !important;
+    }
+
+    .partners{
+        margin-top: 6% !important;
+        margin-right: -82% !important;
+    }
+
+    .contact-us{
+        margin-top: 6% !important;
+        margin-right: 36% !important;
+    }
+
+    .social{
+        display: none !important;
+    }
+
+    .end-wave{
+        margin-bottom: 6% !important;
+    }
+
+    .end-info{
+        font-size: 12px !important;
+        margin-left: 30% !important;
+        margin-right: 1% !important;
+        margin-top: -30% !important;
+    }
+
+    .end{
+        margin-top: 160% !important;
+    }
+
+    .end-img{
+        margin-top: -14% !important;
+        margin-bottom: 6% !important;
+    }
+
+    .end-copy{
+        margin-top: 36% !important;
+    }
+}
